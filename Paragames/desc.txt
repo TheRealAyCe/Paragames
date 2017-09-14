@@ -1,0 +1,12 @@
+﻿Copyright (C) 2013  http://para-welt.com
+
+Paragames v1.1
+
+
+This is an experimental modification for the game Paraworld about Minigames.
+Just install it and run the "Paragames" shortcut from desktop.
+
+Needs Boosterpack installed.
+Compatible with every language, mod is in English.
+
+Have fun! :)
